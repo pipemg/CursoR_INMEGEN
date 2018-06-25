@@ -1002,6 +1002,7 @@ Buscar una función con methdos
 <br>
 .right-column[
  
+# Para R
 
  - **R-Forge:**  [http://r-forge.r-project.org/](http://r-forge.r-project.org/)
 
@@ -1013,6 +1014,13 @@ Buscar una función con methdos
 
  - **RSeek**  [(http://www.rseek.org](http://www.rseek.org) 
 
+
+# Para estadística
+
+ **Probabilidad y Estadistica para ingeniería y ciencias**
+ *Warpole &bull; Myers &bull; Myers*
+
+# Para todo
  - **Google**  [www.google.com](www.google.com) 
 
 ]
